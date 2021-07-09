@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(223, 240, 243, 0.959);
+    font-family: sans-serif;
+}
+.container{
+    background-color: rgba(221, 197, 243, 0.548);
+    margin: 50px;
+    padding: 20px;
+}
+.row{
+    margin: 5px;
+}
+header h1{
+    color: black;
+    text-align: center;
+}
+.photo{
+    text-align: center;
+}
+.photo img{
+    height: 300px;
+}
+.pera{
+    font-weight: bold;
+    text-align: center;
+}
+ul li{
+    margin-top: 8px;
+    list-style-type: square;
+}
+.qoute{
+    color: rgb(143, 94, 223);
+}
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(80, 105, 247);
+}
